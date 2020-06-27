@@ -1,0 +1,5 @@
+<!--pages/icon/index.wxml-->
+<icon type="success_no_circle" color="green" size="24"></icon>
+<icon class="iconfont icon-star"></icon>
+<icon class="iconfont icon-github"></icon>
+<text class="iconfont icon-star"></text>
